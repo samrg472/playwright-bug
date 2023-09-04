@@ -2,6 +2,8 @@
 
 This repository is a demonstration of node native modules not having output using the standard `println!` macro in Rust.
 
+Issue link: https://github.com/microsoft/playwright/issues/26859
+
 ## Running
 
 ### 1. Setup the main project
