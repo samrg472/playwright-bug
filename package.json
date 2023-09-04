@@ -1,0 +1,13 @@
+{
+  "name": "playwright-bug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "private": true,
+  "dependencies": {
+    "native": "file:./native"
+  },
+  "devDependencies": {
+    "@playwright/test": "=1.37.1"
+  }
+}
